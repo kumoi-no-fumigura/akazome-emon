@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/akazome-emon",
  "yomi": "あかぞめえもんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "赤染衛門",
+  "desc": "大江匡衡の妻で藤原道長の妻倫子に仕えた赤染衛門の家集。夫や子、宮仕えの人々との贈答、屏風歌などを収める。末尾に関白に家集を求められて覚えている限り書き出したという一節がある。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -7018,6 +7023,6 @@
   "poems": 618,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
